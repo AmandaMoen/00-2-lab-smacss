@@ -1,10 +1,10 @@
 ##### How did you determine which rules should be placed in each new CSS file?
 
-I referenced the Readme.md for this lab assignments, along with the following websites/pages as references:
-https://smacss.com/book/type-base
-https://smacss.com/book/type-layout
-https://smacss.com/book/type-module
-http://www.anotheruiguy.com/ux-design-dev/_book/smacss/breakdown.html
+I referenced the Readme.md for this lab assignment, along with the following websites/pages as references:
+- https://smacss.com/book/type-base
+- https://smacss.com/book/type-layout
+- https://smacss.com/book/type-module
+- http://www.anotheruiguy.com/ux-design-dev/_book/smacss/breakdown.html
 
 ---
 
